@@ -1,0 +1,8 @@
+Tow libraries required
+ npm i ng2-charts --save
+
+ npm i chart.js --save
+
+ npm install @aspnet/signalr --save
+
+ https://youtu.be/R7PTuOK0ltM

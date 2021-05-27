@@ -1,0 +1,12 @@
+<div style="display: block" *ngIf="signalrService.data">
+  <canvas>
+    [datasets]="signalrService.data"
+    [labels]="chartLabels"
+    [options]="chartOptions"
+    [legend]="chartLegend"
+    [chartType]="chartType"
+    [colors]="colors"
+
+  </canvas>
+
+</div>
